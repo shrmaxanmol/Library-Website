@@ -182,7 +182,7 @@ nav {
     text-align: center;
     /* This uses one of your images as the background */
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
-                url('WhatsApp Image 2025-10-26 at 22.17.37_694ece59.jpg') no-repeat center center/cover;
+                url('wideinside.jpeg') no-repeat center center/cover;
     color: var(--light-color);
 }
 
@@ -569,3 +569,4 @@ nav {
     .contact-grid { padding: 1.5rem; }
     .footer-grid { grid-template-columns: 1fr; }
 }
+
