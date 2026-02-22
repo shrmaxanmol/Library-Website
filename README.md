@@ -3,7 +3,7 @@
 A modern, fully responsive landing page built for **Maa Sharda Library**, a premium study environment located in Pilkhuwa, Hapur. 
 This website is designed to showcase the library's facilities, attract serious learners (competitive exam aspirants, college students, etc.), and allow users to easily send inquiries.
 
-![Website Preview](Screenshot 2026-02-22 220420.png) *(Note: You can replace this with a screenshot of your live site)*
+![Website Preview](websitepreview.png) *(Note: You can replace this with a screenshot of your live site)*
 
 ## 🔗 Live Demo
 **[View the Live Website Here](https://library-website-delta.vercel.app)** ## ✨ Key Features
